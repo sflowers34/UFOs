@@ -4,7 +4,7 @@
 The purpose of this analysis is to delve into the world of JavaScript. An analysis of its technical aspects and how it applies to the field of data analytics and visualization will be explored. We are tasked with utilizing JavaScript to design a webpage that will accept user input and then sort and filter UFO sightings based on date, city, country, date, and state. 
 
 ## Results:
-![](./images/UFO Sightings.png)
+![](images/Filters.jpg)
 There are several different search criteria that are available for users to sort and filter the data on the webpage. Data can be sorted by Date, City, State, Country, or Shape of UFO. We will use an example of filtering by ‘Shape’ to explain how the filtering process works. 
 1)	Users will navigate to the ‘Filter Search’ section of the webpage.
 2)	Users will determine which filter(s) should be applied to the results. Users should the enter the parameters in the appropriate field(s). 
